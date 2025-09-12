@@ -12,7 +12,7 @@ Welcome to the **React Landing Page** project! This is a modern, responsive land
 
 ## 📸 Preview
 
-![Landing Page Preview](./screenshot.png)
+![Landing Page Preview](./build/img/portfolio/01-large.jpg)
 
 
 
