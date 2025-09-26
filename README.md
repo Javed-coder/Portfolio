@@ -47,7 +47,3 @@ Inspired by modern SaaS landing page designs.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-> **Showcase your SaaS or web development skills with this beautiful React landing page!**
