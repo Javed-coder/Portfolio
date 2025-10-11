@@ -1,6 +1,6 @@
-# React Landing Page
+# Bridge-Soft Solutions
 
-Welcome to the **React Landing Page** project! This is a modern, responsive landing page built with React, designed to showcase your SaaS or web development portfolio.
+Welcome to the **Bridge-Soft Solutions** project! This is a modern, responsive landing page built with React, designed to showcase your SaaS or web development portfolio.
 
 ## 🚀 Features
 
@@ -28,21 +28,6 @@ React-Landing-Page/
 ├── package.json
 └── README.md
 ```
-
-## ✨ Customization
-
-- Update content in `src/components/`
-- Replace images in `src/assets/`
-- Edit styles in `src/App.css` or your preferred CSS file
-
-## 📦 Deployment
-
-Deploy easily to platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
-
-## 🙌 Credits
-
-Created by [Javed Alimzai](https://github.com/your-javed-coder)  
-Inspired by modern SaaS landing page designs.
 
 ## 📄 License
 
