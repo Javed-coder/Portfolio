@@ -1,12 +1,12 @@
-# Bridge-Soft Solutions
+<<<<<<< HEAD
+# Javed Alimzai Portfolio
 
-Welcome to the **Bridge-Soft Solutions** project! This is a modern, responsive landing page built with React, designed to showcase your SaaS or web development portfolio.
+Welcome to the **My Portfolio** project! This is a modern, responsive landing page built with React, designed to showcase your SaaS or web development portfolio.
 
 ## 🚀 Features
 
 - ⚡ Fast and responsive design
 - 🎨 Customizable components
-- 🌙 Dark mode support
 - 📱 Mobile-first layout
 - 🛠️ Easy to deploy and maintain
 
@@ -32,3 +32,4 @@ React-Landing-Page/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
