@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "BridgeSoft Solutions",
-    "paragraph": "We are a modern freelance-driven software and web development company, helping businesses transform ideas into powerful digital products. From custom websites to scalable SaaS platforms, we deliver fast, reliable, and future-ready solutions."
+    "title": "Javed Alimzai",
+    "paragraph": "I am Javed Alimzai a Web Designer and Frontend Developer. "
   },
   "About": {
-    "paragraph": "At BridgeSoft Solutions, we specialize in creating websites, applications, and custom software for companies of all sizes. With expertise in React.js, Node.js, Next.js, and WordPress, we provide end-to-end solutions that help businesses scale and succeed in the digital era.",
+    "paragraph": "I am specialize in creating modern responsive and user-focused websites using React.js, HTML5, CSS3 and WordPress. I’m passionate about designing and developing digital experiences that are both visually appealing and highly functional, helping businesses and organizations communicate effectively online.",
     "Why": [
       "Custom web and software solutions tailored to your business",
       "Scalable SaaS applications built with modern technologies",
@@ -12,108 +12,89 @@
       "Client-focused approach with long-term support"
     ],
     "Why2": [
-      "Expertise in React, Node.js, Next.js, WordPress",
-      "Cloud-ready applications (AWS & DevOps learning)",
+      "Expert in React, Node.js and WordPress",
+      "Cloud-ready applications ( DevOps learning)",
       "Clean, responsive UI/UX design",
       "Reliable deployment and maintenance"
     ]
   },
-  "Gallery": [
+  "Projects": [
     {
-      "title": "Business SaaS Platform",
-      "largeImage": "img/portfolio/saas-large.jpg",
-      "smallImage": "img/portfolio/saas-small.jpg"
+      "title": "Bridge-Voice",
+      "largeImage": "img/portfolio/Bridgvoice.png",
+      "smallImage": "img/portfolio/Bridgvoice.png",
+      "websiteUrl": "",
+      "status": "Ongoing"
     },
     {
-      "title": "E-Commerce Website",
-      "largeImage": "img/portfolio/ecommerce-large.jpg",
-      "smallImage": "img/portfolio/ecommerce-small.jpg"
+      "title": "Aafarin Pure Afghan Dryfruits",
+      "largeImage": "img/portfolio/AafarinDryfruit.png",
+      "smallImage": "img/portfolio/AafarinDryfruit.png",
+      "websiteUrl": "https://aafarindryfruits.com/?srsltid=AfmBOorN_LJuP_EQe_lHigzo43HmBeIwMbFTqWyJAAN2r8HtOTUBtJ9f"
     },
     {
-      "title": "Client Portfolio Website",
-      "largeImage": "img/portfolio/portfolio-large.jpg",
-      "smallImage": "img/portfolio/portfolio-small.jpg"
+      "title": "Client Ecomerce Website Arbabarts.ca",
+      "largeImage": "img/portfolio/Arbabarts.png",
+      "smallImage": "img/portfolio/Arbabarts.png",
+      "websiteUrl": "https://www.arbabarts.ca/"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-code",
       "name": "Custom Software Development",
-      "text": "We design and develop tailored software solutions to fit your business needs, ensuring scalability and long-term growth."
+      "text": "I design and develop tailored software solutions to fit cliets business needs, ensuring scalability and long-term growth."
     },
     {
       "icon": "fa fa-wordpress",
       "name": "Website & CMS Development",
-      "text": "From WordPress to custom CMS platforms, we build user-friendly websites optimized for performance and design."
+      "text": "From WordPress to custom CMS platforms and react.js sites, I build user-friendly websites optimized for performance and design."
     },
     {
       "icon": "fa fa-cloud",
       "name": "SaaS & Cloud Apps",
-      "text": "We create cloud-ready SaaS platforms with modern frameworks and best practices, prepared for AWS and DevOps environments."
+      "text": "I create cloud-ready SaaS platforms with modern frameworks and best practices, prepared for DevOps environments."
     },
     {
       "icon": "fa fa-line-chart",
       "name": "Business Growth Solutions",
-      "text": "We help companies establish their digital presence and optimize workflows through smart, reliable software."
+      "text": "I help companies establish their digital presence and optimize workflows through smart, reliable software."
     },
     {
       "icon": "fa fa-mobile",
       "name": "Responsive UI/UX",
-      "text": "Our designs are mobile-first, ensuring seamless user experiences across all devices."
+      "text": "My designs are mobile-first, ensuring seamless user experiences across all devices."
     },
     {
       "icon": "fa fa-lock",
       "name": "Secure Deployment",
-      "text": "We implement secure, stable, and efficient deployment strategies for all client projects."
+      "text": "I implement secure, stable, and efficient deployment strategies for all client projects."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/client1.jpg",
-      "text": "\"BridgeSoft Solutions built a custom SaaS platform that streamlined our business operations. Their professionalism and speed were excellent.\"",
-      "name": "Tech Startup – Ottawa"
-    },
-    {
-      "img": "img/testimonials/client2.jpg",
-      "text": "\"The e-commerce site they developed for us was modern, responsive, and delivered ahead of schedule.\"",
-      "name": "Retail Business Owner"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "BridgeSoft Team",
-      "job": "Developers, Designers & Project Managers"
-    }
-  ],
+  
   "Contact": {
     "address": "Ottawa, Canada",
     "phone": "(613) 6004850",
-    "email": "info@bridgesoft.ca",
-    "facebook": "https://facebook.com/bridgesoft",
-    "twitter": "https://twitter.com/bridgesoft",
-    "youtube": "https://youtube.com/bridgesoft"
+    "email": "javed.alimzai@gmail.com",
+    "facebook": "https://www.facebook.com/jr.alimzai/",
+    "twitter": "https://twitter.com/jralimzai",
+    "github": "https://github.com/Javed-coder"
   },
-  "Features": [
+  "Skills": [
     {
       "icon": "fa fa-rocket",
-      "title": "Fast Delivery",
-      "text": "We use agile methods to ensure your project is delivered on time without compromising quality."
+      "title": "Responsive Design",
+      "text": "I use my knowledge in the projects to make them responsive and have good quality."
     },
     {
       "icon": "fa fa-cogs",
-      "title": "Tailored Solutions",
-      "text": "Every project is customized to meet the exact needs of your business and your clients."
+      "title": "HTML5 & CSS3",
+      "text": "I use HTML5 for structre and CSS3 for designing, I use Sass too for stable designs."
     },
     {
-      "icon": "fa fa-users",
-      "title": "Client Collaboration",
-      "text": "We work closely with businesses to refine ideas and deliver software that truly fits."
-    },
-    {
-      "icon": "fa fa-lightbulb-o",
-      "title": "Innovation Driven",
-      "text": "We stay ahead of trends in SaaS, cloud, and modern frameworks to future-proof your product."
+      "icon": "fa fa-laptop",
+      "title": "Javascript",
+      "text": "I use Javascript and its libraries like React.js and Node.js."
     }
   ]
 }

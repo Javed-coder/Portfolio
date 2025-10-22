@@ -130,18 +130,30 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a
+                      href={props.data ? props.data.facebook : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
+                    <a
+                      href={props.data ? props.data.twitter : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a
+                      href={props.data ? props.data.github : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa fa-github"></i>
                     </a>
                   </li>
                 </ul>
@@ -153,7 +165,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 Bridge Soft Development. Design by{" "}
+            &copy; 2025 Portfolio. Design by{" "}
             <a href="http://www.bridgesoft.ca" rel="nofollow">
               JAVED ALIMZAI
             </a>
