@@ -166,7 +166,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2025 Portfolio. Design by{" "}
-            <a href="http://www.bridgesoft.ca" rel="nofollow">
+            <a href="#" rel="nofollow">
               JAVED ALIMZAI
             </a>
           </p>
